@@ -92,13 +92,13 @@ Dalam tahap modeling saya memakai 3 algoritma
     
     seperti yang terlihat pada gambar 1 bahwa mae yang di dapatkan kurang dari 5%
     
-    ![                                                Gambar 1](Laporan%20Proyek%20Machine%20Learning-Muh%20Acqmal%20Fadhillah%Latief/Screen_Shot_2022-10-12_at_13.46.20.png)
+    ![                                                Gambar 1](Laporan%20Proyek%20Machine%20Learning-Muh%20Acqmal%20Fadhillah%20Latief/Screen_Shot_2022-10-12_at_13.46.20.png)
     
                                                     Gambar 1
     
     setelah melakukan data pelatihan hasil di prediksi dapatkan adalah
     
-    ![                                                Gambar 2](Laporan%20Proyek%20Machine%20Learning-Muh%20Acqmal%20Fadhillah%Latief/Screen_Shot_2022-10-11_at_14.07.23.png)
+    ![                                                Gambar 2](Laporan%20Proyek%20Machine%20Learning-Muh%20Acqmal%20Fadhillah%20Latief/Screen_Shot_2022-10-11_at_14.07.23.png)
     
                                                     Gambar 2
     
@@ -114,7 +114,7 @@ Dalam tahap modeling saya memakai 3 algoritma
     
     setelah melakukan data pelatihan hasil di prediksi dapatkan adalah
     
-    ![                                              Gambar 3](Laporan%20Proyek%20Machine%20Learning-Muh%20Acqmal%20Fadhillah%Latief/Screen_Shot_2022-10-11_at_14.10.54.png)
+    ![                                              Gambar 3](Laporan%20Proyek%20Machine%20Learning-Muh%20Acqmal%20Fadhillah%20Latief/Screen_Shot_2022-10-11_at_14.10.54.png)
     
                                                   Gambar 3
     
@@ -130,7 +130,7 @@ Dalam tahap modeling saya memakai 3 algoritma
     
     setelah melakukan data pelatihan hasil di prediksi dapatkan adalah
     
-    ![                                              Gambar 4](Laporan%20Proyek%20Machine%20Learning-Muh%20Acqmal%20Fadhillah%Latief/Screen_Shot_2022-10-11_at_14.11.36.png)
+    ![                                              Gambar 4](Laporan%20Proyek%20Machine%20Learning-Muh%20Acqmal%20Fadhillah%20Latief/Screen_Shot_2022-10-11_at_14.11.36.png)
     
                                                   Gambar 4
     
@@ -141,7 +141,7 @@ Dalam tahap evaluasi saya mencoba untuk membuat metrik predict 10 tahun kedepan,
 
 Test prediksi model NNR
 
-![                                             Gambar 5](Laporan%20Proyek%20Machine%20Learning-Muh%20Acqmal%20Fadhillah%Latief/Screen_Shot_2022-10-12_at_07.08.19.png)
+![                                             Gambar 5](Laporan%20Proyek%20Machine%20Learning-Muh%20Acqmal%20Fadhillah%20Latief/Screen_Shot_2022-10-12_at_07.08.19.png)
 
                                              Gambar 5
 
@@ -149,7 +149,7 @@ seperti terlihat pada gambar 5 bahwa prediksi model NNR yang di dapatkan cenderu
 
 Test prediksi model linear regression
 
-![                                              Gambar 6](Laporan%20Proyek%20Machine%20Learning-Muh%20Acqmal%20Fadhillah%Latief/Screen_Shot_2022-10-11_at_14.26.42.png)
+![                                              Gambar 6](Laporan%20Proyek%20Machine%20Learning-Muh%20Acqmal%20Fadhillah%20Latief/Screen_Shot_2022-10-11_at_14.26.42.png)
 
                                               Gambar 6
 
@@ -157,7 +157,7 @@ seperti terlihat pada gamar 6 bahwa prediksi model linear regeression yang di da
 
 Test prediksi model SVR
 
-![                                               Gambar 7](Laporan%20Proyek%20Machine%20Learning-Muh%20Acqmal%20Fadhillah%Latief/Screen_Shot_2022-10-11_at_14.40.39.png)
+![                                               Gambar 7](Laporan%20Proyek%20Machine%20Learning-Muh%20Acqmal%20Fadhillah%20Latief/Screen_Shot_2022-10-11_at_14.40.39.png)
 
                                                Gambar 7
 
